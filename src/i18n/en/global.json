@@ -1,0 +1,77 @@
+{
+    "header": {
+        "nav__home": "Home",
+        "nav__about": "About",
+        "nav__skills": "Skills",
+        "nav__services": "Services",
+        "nav__portfolio": "Portfolio",
+        "nav__contact": "Contact"
+    },
+
+    "about": {
+        "about__title": "About me",
+        "about__subtitle": "Know me",
+        "about__description": "Student in his last semester of Systems Engineering specialized in frontend web development with more than 7 months of work experience. Efficient in the development of web applications with technologies such as ReactJS and Angular. My focus is on improving the user experience and ensuring the efficiency of the software.",
+        "about__experience": "Experience",
+        "about__months": "Months ",
+        "about__projects": "Projects",
+        "about__availability": "Availability",
+        "about__work": "Work projects",
+        "download_CV": "Download CV"
+    },
+
+    "home": {
+        "home__description": "Hi! I'm a Front-end passionate with a creative approach and a solid knowledge in modern web technologies. My main goal is to transform ideas and concepts into captivating and functional visual experiences.",
+        "home__contact": "Contact Me",
+        "home__developer": "Software Developer",
+        "home__engineer": "Systems Engineer"
+    },
+
+    "skills": {
+        "skills__subtitle": "The technologies I manage",
+        "skills__level-basic": "Basic",
+        "skills__level-intermediate": "Intermediate",
+        "skills__level-advanced": "Advanced"
+    },
+
+    "services": {
+        "services__title": "Services",
+        "services__subtitle": "What can I offer?" 
+    },
+
+    "qualification": {
+        "qualification__title": "Education/Experience",
+        "qualification__subtitle": "My professional career",
+        "qualification__education": "Systems Engineer",
+        "qualification__education-ubication": "Barranquilla - Simon Bolivar University",
+        "qualification__education-course1": "React: From zero to expert ( Hooks and MERN )",
+        "qualification__education-course2": "Nest: Scalable backend development with Node",
+        "qualification__education-course3": "SOLID and Clean Code principles",
+        "qualification__education-course4": "MongoDB - NoSQL Databases from scratch",
+        "qualification__present": "Present"
+    },
+
+    "contact": {
+        "contact__title": "Shall we speak?",
+        "contact__subtitle": "Contact me!",
+        "contact__talktome": "Talk to me",
+        "contact__email": "Email",
+        "contact__writeme": "Write me",
+        "contact__name": "Name",
+        "contact__message": "Message",
+        "contact__disposition": "At your service",
+        "contact__input-name": "Enter your name",
+        "contact__input-email": "Enter your email address",
+        "contact__input-message": "Leave me a message",
+        "contact__sendmessage": "Send Message"
+    },
+
+    "footer": {
+        "footer__copy": "All Rights Reserved | Alan Maldonado."
+    },
+
+    "work": {
+        "work__title": "Developed personal projects",
+        "work__subtitle": "Portfolio"
+    }
+}

@@ -1,0 +1,72 @@
+.translate__container {
+  position: fixed;
+  bottom: 50px;
+  right: 40px;
+}
+
+.translate__buton {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: var(--title-color);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: floatAnimation 3s ease-in-out infinite;
+}
+
+.translate__option-deployed {
+  position: absolute;
+  top: 0;
+  right: 60px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 10px;
+  z-index: 1; 
+  width: 120px;
+  animation: slideInAnimation 0.3s ease-in-out;
+}
+
+.options{
+    width: 100%;
+    cursor: pointer;
+}
+
+.translate__icon{
+    font-size: 20px;
+    color: #fff;
+}
+
+@keyframes floatAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInAnimation {
+  from {
+    transform: translateX(20px); /* Inicia desde la derecha */
+  }
+  to {
+    transform: translateX(0); /* Llega a la posición normal */
+  }
+}
+
+@keyframes slideOutAnimation {
+  from {
+    transform: translateX(0); /* Inicia desde la posición normal */
+  }
+  to {
+    transform: translateX(120px); /* Se desplaza hacia la derecha */
+  }
+}

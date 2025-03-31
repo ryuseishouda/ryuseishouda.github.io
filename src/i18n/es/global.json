@@ -1,0 +1,77 @@
+{
+    "header": {
+        "nav__home": "Inicio",
+        "nav__about": "Acerca de",
+        "nav__skills": "Habilidades",
+        "nav__services": "Servicios",
+        "nav__portfolio": "Portafolio",
+        "nav__contact": "Contacto"
+    },
+
+    "about": {
+        "about__title": "Acerca de mí",
+        "about__subtitle": "Conóceme",
+        "about__description": "Estudiante en su último semestre de Ingeniería de Software especializado en desarrollo web frontend con más de 7 meses de experiencia laboral. Eficiente en el desarrollo de aplicaciones web con tecnologías como ReactJS y Angular. Mi enfoque está en mejorar la experiencia del usuario y asegurar la eficiencia del software.",
+        "about__experience": "Experiencia",
+        "about__months": "Meses",
+        "about__projects": "Proyectos",
+        "about__availability": "Disponibilidad",
+        "about__work": "Proyectos Laborales",
+        "download_CV": "Descargar CV"
+    },
+
+    "home": {
+        "home__description": "¡Hola! Soy un apasionado del desarrollo frontend con un enfoque creativo y un sólido conocimiento en tecnologías web modernas. Mi principal objetivo es transformar ideas y conceptos en experiencias visuales cautivadoras y funcionales.",
+        "home__contact": "Contáctame",
+        "home__developer": "Desarrollador FrontEnd",
+        "home__engineer": "Ingeniero de Software"
+    },
+
+    "skills": {
+        "skills__subtitle": "Las tecnologías que manejo",
+        "skills__level-basic": "Básico",
+        "skills__level-intermediate": "Intermedio",
+        "skills__level-advanced": "Avanzado"
+    },
+
+    "services": {
+        "services__title": "Servicios",
+        "services__subtitle": "¿Qué puedo ofrecer?"
+    },
+
+    "qualification": {
+        "qualification__title": "Educación/Experiencia",
+        "qualification__subtitle": "Mi carrera profesional",
+        "qualification__education": "Ingeniero de Software",
+        "qualification__education-location": "SENATI Escuela de idiomas",
+        "qualification__education-course1": "React: De cero a experto (Hooks y MERN)",
+        "qualification__education-course2": "Nest: Desarrollo escalable de backend con Node",
+        "qualification__education-course3": "Principios de SOLID y Clean Code",
+        "qualification__education-course4": "MongoDB - Bases de datos NoSQL desde cero",
+        "qualification__present": "Presente"
+    },
+
+    "contact": {
+        "contact__title": "¿Hablamos?",
+        "contact__subtitle": "¡Contáctame!",
+        "contact__talktome": "Háblame",
+        "contact__email": "Correo electrónico",
+        "contact__writeme": "Escríbeme",
+        "contact__name": "Nombre",
+        "contact__message": "Mensaje",
+        "contact__disposition": "A tu servicio",
+        "contact__input-name": "Ingresa tu nombre",
+        "contact__input-email": "Ingresa tu dirección de correo electrónico",
+        "contact__input-message": "Déjame un mensaje",
+        "contact__sendmessage": "Enviar Mensaje"
+    },
+
+    "footer": {
+        "footer__copy": "Todos los derechos reservados | Haruto Ryusei Shouda"
+    },
+
+     "work": {
+        "work__title": "Proyectos personales desarrollados",
+        "work__subtitle": "Portafolio"
+    }
+}
